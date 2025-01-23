@@ -1,0 +1,23 @@
+{
+  "name": "contract-qa-high-precision-rag",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hillaryke/contract-qa-high-precision-rag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hillaryke/contract-qa-high-precision-rag/issues"
+  },
+  "homepage": "https://github.com/hillaryke/contract-qa-high-precision-rag#readme"
+}
