@@ -32,4 +32,5 @@ dependencies = [
     "unstructured[all-docs]>=0.14.8",
     "uvicorn[standard]>=0.34.0",
     "weaviate-client>=4.10.4",
+    "llama-index>=0.12.14",
 ]

@@ -82,7 +82,7 @@ def initialize_rag_pipeline() -> Optional[RetrievalQA]:
 
         # Initialize document store and load documents
         chroma_store = ChromaStore(
-            data_path="/Users/venkata/ai-apps/contract-qa-high-precision-rag/backend/data/contracts"
+            data_path="/Users/venkata/ai-apps/legal-query/backend/data/contracts"
         )
         documents = chroma_store.load_documents_from_dir()
 
