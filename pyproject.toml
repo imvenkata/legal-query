@@ -34,3 +34,6 @@ dependencies = [
     "weaviate-client>=4.10.4",
     "llama-index>=0.12.14",
 ]
+
+[tool.uv.workspace]
+members = ["backend/data-ingest"]
